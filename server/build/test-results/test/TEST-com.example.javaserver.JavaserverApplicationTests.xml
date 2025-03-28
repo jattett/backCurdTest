@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.javaserver.JavaserverApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-24T07:00:06.559Z" hostname="clushui-MacBookPro.local" time="0.347">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.javaserver.JavaserverApplicationTests" time="0.347"/>
+  <system-out><![CDATA[16:00:05.995 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.javaserver.JavaserverApplicationTests]: JavaserverApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+16:00:06.036 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.javaserver.JavaserverApplication for test class com.example.javaserver.JavaserverApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.4)
+
+2025-03-24T16:00:06.183+09:00  INFO 54109 --- [javaserver] [    Test worker] c.e.j.JavaserverApplicationTests         : Starting JavaserverApplicationTests using Java 17.0.14 with PID 54109 (started by clush in /Users/clush/Documents/react/javaserver/server)
+2025-03-24T16:00:06.183+09:00  INFO 54109 --- [javaserver] [    Test worker] c.e.j.JavaserverApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2025-03-24T16:00:06.554+09:00  INFO 54109 --- [javaserver] [    Test worker] c.e.j.JavaserverApplicationTests         : Started JavaserverApplicationTests in 0.465 seconds (process running for 0.887)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
